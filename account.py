@@ -29,5 +29,5 @@ class BankAccount:
 if __name__ == "__main__":
     acc = BankAccount("Madhav", 3000.0)
     acc.deposit(1000.0)
-    acc.withdraw(200.0)
+    acc.withdraw(500.0)
     acc.print_statement()
