@@ -3,3 +3,6 @@
 __pycache__/
 node_modules/
 *.log
+.terraform/
+*.tfstate
+*.tfstate.backup
