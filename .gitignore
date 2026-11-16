@@ -6,3 +6,12 @@ node_modules/
 .terraform/
 *.tfstate
 *.tfstate.backup
+*.tfplan
+
+tfplan
+*.tfplan
+
+# Terraform plans and state
+tfplan
+*.tfplan
+*.tfstate*
